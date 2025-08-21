@@ -55,15 +55,25 @@ The website can be accessed here: [Live Demo](https://hamilton2025.github.io/pro
 
 - **Git & GitHub** – Version control and hosting
 
-
 # Testing
 To ensure functionality and responsiveness, the following tests were performed:
 
 1. **Cross-browser testing**
 
   - Verified in Chrome and Firefox with consistent layout and visuals.
+    * Chrome
+  ![alt text](<chrome result .png>) 
+  ![alt text](<chrome result 2.png>) 
+  ![alt text](<chrome result 3.png>) 
+    * Firefox
+  ![alt text](<firefox result 1.png>) 
+  ![alt text](<firefox result 2.png>)
 
   - Navigation bar, dropdown menus, and background interactions worked as expected.
+    * Chrome
+  ![alt text](<firefox dropdown result-1.png>)
+    * Firefox
+  ![alt text](<chrome dropdown result-1.png>)
 
 2. **Responsive design check**
 
@@ -71,17 +81,23 @@ To ensure functionality and responsiveness, the following tests were performed:
 
   - Layout adapts smoothly to mobile and tablet breakpoints.
 
+  ![alt text](<responsive viewer  result 2.png>) 
+  ![alt text](<responsive viewer result 1.png>)
+
 3. **HTML Validation**
 
   - Code checked against W3C HTML Validator — no critical errors found.
+  ![alt text](<W3C HTML result.png>)
 
 4. **CSS Validation**
 
   - Code checked against W3C CSS Validator — passed standards compliance.
+![alt text](<W3C CSS result.png>)
 
 5. **Lighthouse Audit**
 
   - Performance, Accessibility, Best Practices, and SEO checked using Lighthouse.
+![alt text](<Lighthouse result.png>)
 
 # Deployment
 - **Deployment to GitHub Pages**
