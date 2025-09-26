@@ -9,7 +9,7 @@ body {
 }
 
 body.home-page {
-    background-image: url(Img/background-photo.jpg);
+    background-image: url(/Assets/Img/background-photo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -18,7 +18,7 @@ body.home-page {
 }
 
 body.home-page.bg-eat-hover {
-  background-image: url(Img/background2-photo.jpg);
+  background-image: url(/Assets/Img/background2-photo.jpg);
 }
 
 /*Navigation bar*/
@@ -549,11 +549,3 @@ form button:hover {
         border-radius: 10px;
     }
 }
-
-
-
-
-
-
-
-
